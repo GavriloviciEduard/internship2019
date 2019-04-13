@@ -42,7 +42,8 @@ Processing time for each ATM is negligible.
 
 The application should implement the following method:
 
-    public List<Atm> getAtmsRoute() {
+    public List<Atm> getAtmsRoute() 
+    {
         // TODO: add your code here
     }
 
